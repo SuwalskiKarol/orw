@@ -1,0 +1,62 @@
+D:\C#\emfałce\PROJEKT\CRUD\A6_Performing_CRUD_Using_Angular\bin\A6_Performing_CRUD_Using_Angular.dll.config
+D:\C#\emfałce\PROJEKT\CRUD\A6_Performing_CRUD_Using_Angular\bin\A6_Performing_CRUD_Using_Angular.dll
+D:\C#\emfałce\PROJEKT\CRUD\A6_Performing_CRUD_Using_Angular\bin\A6_Performing_CRUD_Using_Angular.pdb
+D:\C#\emfałce\PROJEKT\CRUD\A6_Performing_CRUD_Using_Angular\bin\EntityFramework.dll
+D:\C#\emfałce\PROJEKT\CRUD\A6_Performing_CRUD_Using_Angular\bin\EntityFramework.SqlServer.dll
+D:\C#\emfałce\PROJEKT\CRUD\A6_Performing_CRUD_Using_Angular\bin\Microsoft.Web.Infrastructure.dll
+D:\C#\emfałce\PROJEKT\CRUD\A6_Performing_CRUD_Using_Angular\bin\Newtonsoft.Json.dll
+D:\C#\emfałce\PROJEKT\CRUD\A6_Performing_CRUD_Using_Angular\bin\System.Net.Http.Formatting.dll
+D:\C#\emfałce\PROJEKT\CRUD\A6_Performing_CRUD_Using_Angular\bin\System.Web.Helpers.dll
+D:\C#\emfałce\PROJEKT\CRUD\A6_Performing_CRUD_Using_Angular\bin\System.Web.Http.dll
+D:\C#\emfałce\PROJEKT\CRUD\A6_Performing_CRUD_Using_Angular\bin\System.Web.Http.WebHost.dll
+D:\C#\emfałce\PROJEKT\CRUD\A6_Performing_CRUD_Using_Angular\bin\System.Web.Mvc.dll
+D:\C#\emfałce\PROJEKT\CRUD\A6_Performing_CRUD_Using_Angular\bin\System.Web.Razor.dll
+D:\C#\emfałce\PROJEKT\CRUD\A6_Performing_CRUD_Using_Angular\bin\System.Web.Webpages.Deployment.dll
+D:\C#\emfałce\PROJEKT\CRUD\A6_Performing_CRUD_Using_Angular\bin\System.Web.Webpages.dll
+D:\C#\emfałce\PROJEKT\CRUD\A6_Performing_CRUD_Using_Angular\bin\System.Web.Webpages.Razor.dll
+D:\C#\emfałce\PROJEKT\CRUD\A6_Performing_CRUD_Using_Angular\bin\EntityFramework.xml
+D:\C#\emfałce\PROJEKT\CRUD\A6_Performing_CRUD_Using_Angular\bin\EntityFramework.SqlServer.xml
+D:\C#\emfałce\PROJEKT\CRUD\A6_Performing_CRUD_Using_Angular\bin\System.Web.Razor.xml
+D:\C#\emfałce\PROJEKT\CRUD\A6_Performing_CRUD_Using_Angular\bin\System.Web.Webpages.xml
+D:\C#\emfałce\PROJEKT\CRUD\A6_Performing_CRUD_Using_Angular\bin\System.Web.Webpages.Deployment.xml
+D:\C#\emfałce\PROJEKT\CRUD\A6_Performing_CRUD_Using_Angular\bin\System.Web.Webpages.Razor.xml
+D:\C#\emfałce\PROJEKT\CRUD\A6_Performing_CRUD_Using_Angular\bin\System.Web.Helpers.xml
+D:\C#\emfałce\PROJEKT\CRUD\A6_Performing_CRUD_Using_Angular\bin\System.Web.Mvc.xml
+D:\C#\emfałce\PROJEKT\CRUD\A6_Performing_CRUD_Using_Angular\bin\Newtonsoft.Json.xml
+D:\C#\emfałce\PROJEKT\CRUD\A6_Performing_CRUD_Using_Angular\bin\System.Net.Http.Formatting.xml
+D:\C#\emfałce\PROJEKT\CRUD\A6_Performing_CRUD_Using_Angular\bin\System.Web.Http.xml
+D:\C#\emfałce\PROJEKT\CRUD\A6_Performing_CRUD_Using_Angular\bin\System.Web.Http.WebHost.xml
+D:\C#\emfałce\PROJEKT\CRUD\A6_Performing_CRUD_Using_Angular\obj\Debug\CRUD_Using_Angular.csprojResolveAssemblyReference.cache
+D:\C#\emfałce\PROJEKT\CRUD\A6_Performing_CRUD_Using_Angular\obj\Debug\A6_Performing_CRUD_Using_Angular.dll
+D:\C#\emfałce\PROJEKT\CRUD\A6_Performing_CRUD_Using_Angular\obj\Debug\A6_Performing_CRUD_Using_Angular.pdb
+D:\C#\emfałce\PROJEKT\orw\Lab 4. i 6. - Web API+front-end\CRUD\CRUD_Using_Angular\bin\A6_Performing_CRUD_Using_Angular.dll.config
+D:\C#\emfałce\PROJEKT\orw\Lab 4. i 6. - Web API+front-end\CRUD\CRUD_Using_Angular\bin\A6_Performing_CRUD_Using_Angular.dll
+D:\C#\emfałce\PROJEKT\orw\Lab 4. i 6. - Web API+front-end\CRUD\CRUD_Using_Angular\bin\A6_Performing_CRUD_Using_Angular.pdb
+D:\C#\emfałce\PROJEKT\orw\Lab 4. i 6. - Web API+front-end\CRUD\CRUD_Using_Angular\bin\EntityFramework.dll
+D:\C#\emfałce\PROJEKT\orw\Lab 4. i 6. - Web API+front-end\CRUD\CRUD_Using_Angular\bin\EntityFramework.SqlServer.dll
+D:\C#\emfałce\PROJEKT\orw\Lab 4. i 6. - Web API+front-end\CRUD\CRUD_Using_Angular\bin\Microsoft.Web.Infrastructure.dll
+D:\C#\emfałce\PROJEKT\orw\Lab 4. i 6. - Web API+front-end\CRUD\CRUD_Using_Angular\bin\Newtonsoft.Json.dll
+D:\C#\emfałce\PROJEKT\orw\Lab 4. i 6. - Web API+front-end\CRUD\CRUD_Using_Angular\bin\System.Net.Http.Formatting.dll
+D:\C#\emfałce\PROJEKT\orw\Lab 4. i 6. - Web API+front-end\CRUD\CRUD_Using_Angular\bin\System.Web.Helpers.dll
+D:\C#\emfałce\PROJEKT\orw\Lab 4. i 6. - Web API+front-end\CRUD\CRUD_Using_Angular\bin\System.Web.Http.dll
+D:\C#\emfałce\PROJEKT\orw\Lab 4. i 6. - Web API+front-end\CRUD\CRUD_Using_Angular\bin\System.Web.Http.WebHost.dll
+D:\C#\emfałce\PROJEKT\orw\Lab 4. i 6. - Web API+front-end\CRUD\CRUD_Using_Angular\bin\System.Web.Mvc.dll
+D:\C#\emfałce\PROJEKT\orw\Lab 4. i 6. - Web API+front-end\CRUD\CRUD_Using_Angular\bin\System.Web.Razor.dll
+D:\C#\emfałce\PROJEKT\orw\Lab 4. i 6. - Web API+front-end\CRUD\CRUD_Using_Angular\bin\System.Web.Webpages.Deployment.dll
+D:\C#\emfałce\PROJEKT\orw\Lab 4. i 6. - Web API+front-end\CRUD\CRUD_Using_Angular\bin\System.Web.Webpages.dll
+D:\C#\emfałce\PROJEKT\orw\Lab 4. i 6. - Web API+front-end\CRUD\CRUD_Using_Angular\bin\System.Web.Webpages.Razor.dll
+D:\C#\emfałce\PROJEKT\orw\Lab 4. i 6. - Web API+front-end\CRUD\CRUD_Using_Angular\bin\EntityFramework.xml
+D:\C#\emfałce\PROJEKT\orw\Lab 4. i 6. - Web API+front-end\CRUD\CRUD_Using_Angular\bin\EntityFramework.SqlServer.xml
+D:\C#\emfałce\PROJEKT\orw\Lab 4. i 6. - Web API+front-end\CRUD\CRUD_Using_Angular\bin\System.Web.Razor.xml
+D:\C#\emfałce\PROJEKT\orw\Lab 4. i 6. - Web API+front-end\CRUD\CRUD_Using_Angular\bin\System.Web.Webpages.xml
+D:\C#\emfałce\PROJEKT\orw\Lab 4. i 6. - Web API+front-end\CRUD\CRUD_Using_Angular\bin\System.Web.Webpages.Deployment.xml
+D:\C#\emfałce\PROJEKT\orw\Lab 4. i 6. - Web API+front-end\CRUD\CRUD_Using_Angular\bin\System.Web.Webpages.Razor.xml
+D:\C#\emfałce\PROJEKT\orw\Lab 4. i 6. - Web API+front-end\CRUD\CRUD_Using_Angular\bin\System.Web.Helpers.xml
+D:\C#\emfałce\PROJEKT\orw\Lab 4. i 6. - Web API+front-end\CRUD\CRUD_Using_Angular\bin\System.Web.Mvc.xml
+D:\C#\emfałce\PROJEKT\orw\Lab 4. i 6. - Web API+front-end\CRUD\CRUD_Using_Angular\bin\Newtonsoft.Json.xml
+D:\C#\emfałce\PROJEKT\orw\Lab 4. i 6. - Web API+front-end\CRUD\CRUD_Using_Angular\bin\System.Net.Http.Formatting.xml
+D:\C#\emfałce\PROJEKT\orw\Lab 4. i 6. - Web API+front-end\CRUD\CRUD_Using_Angular\bin\System.Web.Http.xml
+D:\C#\emfałce\PROJEKT\orw\Lab 4. i 6. - Web API+front-end\CRUD\CRUD_Using_Angular\bin\System.Web.Http.WebHost.xml
+D:\C#\emfałce\PROJEKT\orw\Lab 4. i 6. - Web API+front-end\CRUD\CRUD_Using_Angular\obj\Debug\CRUD_Using_Angular.csprojResolveAssemblyReference.cache
+D:\C#\emfałce\PROJEKT\orw\Lab 4. i 6. - Web API+front-end\CRUD\CRUD_Using_Angular\obj\Debug\A6_Performing_CRUD_Using_Angular.dll
+D:\C#\emfałce\PROJEKT\orw\Lab 4. i 6. - Web API+front-end\CRUD\CRUD_Using_Angular\obj\Debug\A6_Performing_CRUD_Using_Angular.pdb
