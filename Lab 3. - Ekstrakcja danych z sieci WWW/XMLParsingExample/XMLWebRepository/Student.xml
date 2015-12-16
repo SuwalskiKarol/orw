@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<StudentsInformation>
+  <GeneralInformation>
+    <Szkoła>Uniwersytet Disneya</Szkoła>
+    <Wydział>Gumisiowa Dolina</Wydział>
+  </GeneralInformation>
+  <Studentlist>
+    <Student id="1" pkt="100" rekrutacja="15.07.2015"
+             opis="to ta żółta">Gumiś Sani</Student>
+    <Student id="2" pkt="100" rekrutacja="16.07.2015"
+             opis="Najmłodszy, różowy(?)">Gumiś Kabi</Student>
+    <Student id="3" pkt="99" rekrutacja="14.06.2015"
+             opis="O! to ja! gruby, zaspany i ciągle je!">Gumić Tami</Student>
+    <Student id="4" pkt="98" rekrutacja="12.05.2015" 
+             opis="paker z wadą wymowy">Gumiś Grafi</Student>
+    <Student id="5" pkt="99" rekrutacja="15.07.2015" opis=
+             "to ten czarny">Barack Obama</Student>
+    <Student id="6" pkt="35" rekrutacja="09.09.2015"
+             opis="ten mądry co ciągle w książkach siedział">Gumiś Zami</Student>
+  </Studentlist>
+</StudentsInformation>

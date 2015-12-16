@@ -1,0 +1,15 @@
+D:\C#\ekstrakcja\XMLParsingExample\XMLParsingExample\bin\Debug\XMLParsingExample.exe
+D:\C#\ekstrakcja\XMLParsingExample\XMLParsingExample\bin\Debug\XMLParsingExample.pdb
+D:\C#\ekstrakcja\XMLParsingExample\XMLParsingExample\obj\x86\Debug\XMLParsingExample.csprojResolveAssemblyReference.cache
+D:\C#\ekstrakcja\XMLParsingExample\XMLParsingExample\obj\x86\Debug\MainWindow.baml
+D:\C#\ekstrakcja\XMLParsingExample\XMLParsingExample\obj\x86\Debug\MainWindow.g.cs
+D:\C#\ekstrakcja\XMLParsingExample\XMLParsingExample\obj\x86\Debug\App.g.cs
+D:\C#\ekstrakcja\XMLParsingExample\XMLParsingExample\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\C#\ekstrakcja\XMLParsingExample\XMLParsingExample\obj\x86\Debug\XMLParsingExample_MarkupCompile.cache
+D:\C#\ekstrakcja\XMLParsingExample\XMLParsingExample\obj\x86\Debug\XMLParsingExample_MarkupCompile.lref
+D:\C#\ekstrakcja\XMLParsingExample\XMLParsingExample\obj\x86\Debug\App.baml
+D:\C#\ekstrakcja\XMLParsingExample\XMLParsingExample\obj\x86\Debug\XMLParsingExample.g.resources
+D:\C#\ekstrakcja\XMLParsingExample\XMLParsingExample\obj\x86\Debug\XMLParsingExample.Properties.Resources.resources
+D:\C#\ekstrakcja\XMLParsingExample\XMLParsingExample\obj\x86\Debug\XMLParsingExample.csproj.GenerateResource.Cache
+D:\C#\ekstrakcja\XMLParsingExample\XMLParsingExample\obj\x86\Debug\XMLParsingExample.exe
+D:\C#\ekstrakcja\XMLParsingExample\XMLParsingExample\obj\x86\Debug\XMLParsingExample.pdb

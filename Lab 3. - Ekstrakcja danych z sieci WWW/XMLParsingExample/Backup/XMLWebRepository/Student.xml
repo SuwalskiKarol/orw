@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<StudentsInformation>
+  <GeneralInformation>
+    <School>University of XML</School>
+    <Department>Department of XML parsing</Department>
+  </GeneralInformation>
+  <Studentlist>
+    <Student id="1" score="100" enrollment="4/30/1789"
+             comment="1st and greatest president">George Washington</Student>
+    <Student id="2" score="100" enrollment="3/4/1861"
+             comment="Civil was. Great president!">Abraham Lincoln</Student>
+    <Student id="3" score="99" enrollment="1/20/1993"
+             comment="Monica Samille Lewinsky, Cool!">Bill J. Clinton</Student>
+    <Student id="4" score="98" enrollment="1/20/2001" 
+             comment="House price went beyond American's affordability">George W. Bush</Student>
+    <Student id="5" score="99" enrollment="1/20/2009" comment=
+             "Ridiculously low interest rate, high house price. $ worthless">Barack H. Obama</Student>
+    <Student id="6" score="35" enrollment="4/30/2011" 
+             comment="Never qualified to be the president.">Song Li</Student>
+  </Studentlist>
+</StudentsInformation>

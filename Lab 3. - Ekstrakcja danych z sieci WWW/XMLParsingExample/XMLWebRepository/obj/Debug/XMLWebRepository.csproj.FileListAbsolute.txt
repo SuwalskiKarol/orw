@@ -1,0 +1,6 @@
+D:\C#\ekstrakcja\XMLParsingExample\XMLWebRepository\bin\XMLWebRepository.dll.config
+D:\C#\ekstrakcja\XMLParsingExample\XMLWebRepository\bin\XMLWebRepository.dll
+D:\C#\ekstrakcja\XMLParsingExample\XMLWebRepository\bin\XMLWebRepository.pdb
+D:\C#\ekstrakcja\XMLParsingExample\XMLWebRepository\obj\Debug\XMLWebRepository.csprojResolveAssemblyReference.cache
+D:\C#\ekstrakcja\XMLParsingExample\XMLWebRepository\obj\Debug\XMLWebRepository.dll
+D:\C#\ekstrakcja\XMLParsingExample\XMLWebRepository\obj\Debug\XMLWebRepository.pdb
