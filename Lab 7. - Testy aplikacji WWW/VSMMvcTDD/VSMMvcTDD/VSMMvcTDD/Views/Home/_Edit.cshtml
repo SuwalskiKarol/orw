@@ -1,0 +1,14 @@
+﻿@model VSMMvcTDD.Models.ContactViewModel
+
+@using (Html.BeginForm("Edit", "Home", null, FormMethod.Post, new { @id = "contactForm" }))
+{
+    @Html.HttpMethodOverride(HttpVerbs.Put)
+    @Html.AntiForgeryToken()
+    @Html.EditorForModel()
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Save" id="Save" class="btn btn-primary" />
+            <input type="submit" value="Delete" id="Delete" class="btn btn-default" />
+        </div>
+    </div>
+}

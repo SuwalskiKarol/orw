@@ -1,0 +1,8 @@
+﻿@model VSMMvcTDD.Models.ContactViewModel
+
+@using (Html.BeginForm("Delete", "Home", null, FormMethod.Post, new { @id = "contactForm" }))
+{
+    @Html.HttpMethodOverride(HttpVerbs.Delete)
+    @Html.AntiForgeryToken()
+    @Html.DisplayForModel()
+}

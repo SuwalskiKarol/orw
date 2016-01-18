@@ -1,0 +1,37 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+@model VSMMvcTDD.Models.ContactIndexModel
+           
+
+<div class="row">
+    <div class="col-md-12" id="contactsGridContent">
+        <fieldset>
+            <legend>Invoice Results</legend>
+            @{
+                Html.RenderPartial("_ContactsGrid", Model.Contacts);
+            }
+        </fieldset>
+        <div class="row pull-right">
+            <button type="button" id="Create" class="btn btn-default ladda-button" data-style="expand-right"><i class="glyphicon glyphicon-plus"></i>&nbsp;&nbsp;Create</button>
+        </div>
+    </div>
+</div>
+
+<div id="contactStatus"></div>
+<div id="contactContent">
+</div>
+
+@section scripts
+{
+    @Scripts.Render("~/bundles/Contact.js")
+    <script type="text/javascript">
+        contact.init({
+            contactsGridAction: '@Url.Action("ContactsGrid")',
+            newContactAction: '@Url.Action("Create")',
+            editContactAction: '@Url.Action("Edit")',
+            deleteContactAction: '@Url.Action("Delete")'
+        });
+    </script>
+}

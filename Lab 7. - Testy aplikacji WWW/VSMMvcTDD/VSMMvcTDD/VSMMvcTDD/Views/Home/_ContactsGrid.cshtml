@@ -1,0 +1,11 @@
+﻿@using GridMvc.Html
+@using GridMvc.Sorting
+@model Grid.Mvc.Ajax.GridExtensions.AjaxGrid<VSMMvcTDD.Models.ContactViewModel>
+
+@Html.Grid(Model).Columns(columns =>
+{
+    columns.Add(c => c.Id, true);
+    columns.Add(c => c.LastName).Titled("Last Name").SortInitialDirection(GridSortDirection.Ascending);
+    columns.Add(c => c.FirstName).Titled("First Name");
+    columns.Add(c => c.Email);
+}).Named("contactsGrid").Sortable(true).WithPaging(5).Filterable(true).Selectable(true).EmptyText("No contacts found")
