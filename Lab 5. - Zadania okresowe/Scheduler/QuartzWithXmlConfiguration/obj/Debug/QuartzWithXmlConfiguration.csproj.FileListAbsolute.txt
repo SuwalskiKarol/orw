@@ -1,0 +1,15 @@
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithXmlConfiguration\bin\Debug\QuartzWithXmlConfiguration.exe.config
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithXmlConfiguration\bin\Debug\quartzJobsAndTriggers.xml
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithXmlConfiguration\bin\Debug\QuartzWithXmlConfiguration.exe
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithXmlConfiguration\bin\Debug\QuartzWithXmlConfiguration.pdb
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithXmlConfiguration\bin\Debug\Common.Logging.Core.dll
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithXmlConfiguration\bin\Debug\Common.Logging.dll
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithXmlConfiguration\bin\Debug\Quartz.dll
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithXmlConfiguration\bin\Debug\Common.Logging.pdb
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithXmlConfiguration\bin\Debug\Common.Logging.xml
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithXmlConfiguration\bin\Debug\Common.Logging.Core.pdb
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithXmlConfiguration\bin\Debug\Common.Logging.Core.xml
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithXmlConfiguration\bin\Debug\Quartz.pdb
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithXmlConfiguration\bin\Debug\Quartz.xml
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithXmlConfiguration\obj\Debug\QuartzWithXmlConfiguration.exe
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithXmlConfiguration\obj\Debug\QuartzWithXmlConfiguration.pdb

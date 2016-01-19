@@ -1,0 +1,17 @@
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithNinject\bin\Debug\QuartzWithNinject.exe.config
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithNinject\bin\Debug\QuartzWithNinject.exe
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithNinject\bin\Debug\QuartzWithNinject.pdb
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithNinject\bin\Debug\Common.Logging.Core.dll
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithNinject\bin\Debug\Common.Logging.dll
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithNinject\bin\Debug\Ninject.dll
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithNinject\bin\Debug\Quartz.dll
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithNinject\bin\Debug\Common.Logging.pdb
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithNinject\bin\Debug\Common.Logging.xml
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithNinject\bin\Debug\Common.Logging.Core.pdb
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithNinject\bin\Debug\Common.Logging.Core.xml
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithNinject\bin\Debug\Ninject.xml
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithNinject\bin\Debug\Quartz.pdb
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithNinject\bin\Debug\Quartz.xml
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithNinject\obj\Debug\QuartzWithNinject.csprojResolveAssemblyReference.cache
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithNinject\obj\Debug\QuartzWithNinject.exe
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithNinject\obj\Debug\QuartzWithNinject.pdb

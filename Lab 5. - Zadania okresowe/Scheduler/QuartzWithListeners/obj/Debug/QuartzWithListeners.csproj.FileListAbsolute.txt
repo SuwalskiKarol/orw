@@ -1,0 +1,14 @@
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithListeners\bin\Debug\QuartzWithListeners.exe
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithListeners\bin\Debug\QuartzWithListeners.pdb
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithListeners\bin\Debug\Common.Logging.Core.dll
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithListeners\bin\Debug\Common.Logging.dll
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithListeners\bin\Debug\Quartz.dll
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithListeners\bin\Debug\Common.Logging.pdb
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithListeners\bin\Debug\Common.Logging.xml
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithListeners\bin\Debug\Common.Logging.Core.pdb
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithListeners\bin\Debug\Common.Logging.Core.xml
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithListeners\bin\Debug\Quartz.pdb
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithListeners\bin\Debug\Quartz.xml
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithListeners\obj\Debug\QuartzWithListeners.exe
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithListeners\obj\Debug\QuartzWithListeners.pdb
+D:\C#\Scheduler\CodeIn60Seconds-master\DotNet\QuartzWithListeners\obj\Debug\QuartzWithListeners.csprojResolveAssemblyReference.cache
